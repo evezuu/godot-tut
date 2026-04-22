@@ -1,0 +1,7 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+WARNING: Your video card drivers are known to have low quality OpenGL 3.3 support, switching to ANGLE.
+   at: DisplayServerWindows (platform/windows/display_server_windows.cpp:7423)
+OpenGL API OpenGL ES 3.0 (ANGLE 2.1.1 git hash: aaebda1c5a40) - Compatibility - Using Device: Google Inc. (Intel) - ANGLE (Intel, Intel(R) HD Graphics 5500 (0x00001616) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.5063)
+
+ERROR: Resource file not found: res://node.tscn::7a8se (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:351)
